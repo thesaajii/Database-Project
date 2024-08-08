@@ -4,6 +4,10 @@
 
 The Markhor Motor Car Showroom Database is designed to manage and store information related to car inventory, sales, customers, and employees. This database facilitates the efficient handling of showroom operations, enabling streamlined processes and better decision-making.
 
+
+**User name**    "sajid"
+**Password**     "123"
+
 ## Database Structure
 
 The database comprises several tables, each dedicated to storing specific types of information. Below is an overview of the main tables:
